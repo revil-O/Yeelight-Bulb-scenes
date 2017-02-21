@@ -28,21 +28,25 @@ Romance
 Night mode 
 -
 {"method":"props","params":{"color_mode":1}} 
+
 {"method":"props","params":{"rgb":16750848,"flowing":0,"bright":1}}
 
 Home 
 -
 {"method":"props","params":{"color_mode":2}} 
+
 {"method":"props","params":{"ct":3200,"bright":80}}
 
 Dating Night 
 --
 {"method":"props","params":{"color_mode":1}}
+
 {"method":"props","params":{"rgb":16737792,"bright":50}}
 
 Happy Birthday 
 -
 {"method":"props","params":{"flowing":1}} 
+
 {"method":"props","params":{"flow_params":"0,1,1996,1,14438425,80,1996,1,14448670,80,1996,1,11153940,80"}}
 
 Movie 
