@@ -27,8 +27,8 @@ Home
 {"method":"props","params":{"ct":3200,"bright":80}}
 
 Dating Night 
--
-{"method":"props","params":{"color_mode":1}} 
+--
+{"method":"props","params":{"color_mode":1}}
 {"method":"props","params":{"rgb":16737792,"bright":50}}
 
 Happy Birthday 
