@@ -1,7 +1,10 @@
 #Yeelight-Bulb-scenes
----
+-
+pseudo code for the scenes used in the Android yeelight app (scenes taken for the yeelight color bulb)
+* this code is used for my Fibaro virtual devices (some color and mono bulbs)  (lua)
+--
 
-Scenes for the Philips Hue equivalent from Xiaomi
+Scenes for the Philips Hue equivalent from Xiaomi Corp. China
 -
 
 Sunrise 
