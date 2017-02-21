@@ -9,14 +9,17 @@ Scenes for the Philips Hue equivalent from Xiaomi Corp. China
 
 Sunrise 
 -
+- simulate a natural and gentle sunrise in 15 minutes
 {"method":"props","params":{"flowing":1}} {"method":"props","params":{"flow_params":"3,1,50,1,16731392,1,360000,2,1700,10,540000,2,2700,100"}}
 
 SunSet 
 -
+- simulate a natural sunset and offering relaxing dimming to help you sleep in 10 minutes
 {"method":"props","params":{"flow_params":"3,2,50,2,2700,10,180000,2,1700,5,420000,1,16731136,1"}}
 
 Romance 
 -
+- romantic lights
 {"method":"props","params":{"flow_params":"0,1,4000,1,5838189,1,4000,1,6689834,1"}}
 
 Night mode 
