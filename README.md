@@ -50,4 +50,4 @@ Happy Birthday
 Movie 
 -
 {"method":"props","params":{"flowing":0}} 
-{"method":"props","params":{"rgb":1315890}}
+{"method":"props","params":{"rgb":1315890,"bright":50}}
