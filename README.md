@@ -2,6 +2,7 @@
 
 - pseudo code for the scenes used in the Android yeelight app (scenes taken for the yeelight color bulb) 
 - this code is used for my Fibaro virtual devices (some color and mono bulbs)  (lua)
+- for more information about the API, refer to [Yeelight WiFi Light Inter-Operation Specification](https://www.yeelight.com/en_US/developer)
 
 
 Scenes for the Philips Hue equivalent from Xiaomi Corp. China
