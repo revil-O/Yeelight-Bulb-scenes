@@ -80,3 +80,10 @@ Candle Flicker
 {"method":"props","params":{"flowing":1}}
 {"method":"props","params":{"flow_params":"0,0,800,2,2700,50,800,2,2700,30,1200,2,2700,80,800,2,2700,60,1200,2,2700,90,2400,2,2700,50,1200,2,2700,80,800,2,2700,60,400,2,2700,70"}}
 ```
+
+Tea Time
+```json
+{"method":"props","params":{"flowing":0}}
+{"method":"props","params":{"color_mode":3}}
+{"method":"props","params":{"hue":36,"bright":50}}
+```
