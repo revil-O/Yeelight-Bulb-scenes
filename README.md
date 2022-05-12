@@ -40,7 +40,7 @@ Night mode
 ```json
 {"method":"props","params":{"flowing":0}}
 {"method":"props","params":{"color_mode":1}}
-{"method":"props","params":{"rgb":16750848,"flowing":0,"bright":1}}
+{"method":"props","params":{"rgb":16750848,"bright":1}}
 ```
 
 Home
