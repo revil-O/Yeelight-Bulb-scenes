@@ -85,5 +85,5 @@ Tea Time
 ```json
 {"method":"props","params":{"flowing":0}}
 {"method":"props","params":{"color_mode":3}}
-{"method":"props","params":{"hue":36,"bright":50}}
+{"method":"props","params":{"ct":3000,"bright":50}}
 ```
