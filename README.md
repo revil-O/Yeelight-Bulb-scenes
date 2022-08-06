@@ -82,6 +82,7 @@ Candle Flicker
 ```
 
 Tea Time
+-
 ```json
 {"method":"props","params":{"flowing":0}}
 {"method":"props","params":{"color_mode":3}}
